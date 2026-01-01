@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/ntos-redteam/target/debug/libntos_redteam.rlib: /data/data/com.termux/files/home/ntos-redteam/src/kernel.rs /data/data/com.termux/files/home/ntos-redteam/src/lib.rs /data/data/com.termux/files/home/ntos-redteam/src/pqc.rs

@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/ntos-redteam/target/release/ntos-redteam: /data/data/com.termux/files/home/ntos-redteam/src/kernel.rs /data/data/com.termux/files/home/ntos-redteam/src/lib.rs /data/data/com.termux/files/home/ntos-redteam/src/main.rs /data/data/com.termux/files/home/ntos-redteam/src/pqc.rs
