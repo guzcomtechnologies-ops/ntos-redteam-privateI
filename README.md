@@ -1,1 +1,1 @@
-[Full professional README from previous message]
+[Paste full README from earlier]
