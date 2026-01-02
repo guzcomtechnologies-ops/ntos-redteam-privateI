@@ -1,1 +1,1 @@
-# ntos-redteam-privateI
+[Full professional README from previous message]
